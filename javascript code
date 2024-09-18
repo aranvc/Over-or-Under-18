@@ -1,0 +1,12 @@
+for (let i =0; i < 10 i++); {
+  let age = prompt("enter a number")
+  age = parseInt(age)
+  if (age>=18) {
+    console.log(" you are an adult ")
+  } else { 
+    console.log("you are under 18")
+  }
+
+}
+    
+
